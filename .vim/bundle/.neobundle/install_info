@@ -1,0 +1,2 @@
+1.0
+{'vimproc': {'checked_time': 1365057078, 'installed_uri': 'git://github.com/Shougo/vimproc.git', 'updated_time': '1364725602'}, 'neocomplcache': {'checked_time': 1365057078, 'installed_uri': 'git://github.com/Shougo/neocomplcache.git', 'updated_time': '1364623294'}, 'neobundle.vim': {'checked_time': 1365057078, 'installed_uri': 'git://github.com/Shougo/neobundle.vim.git', 'updated_time': '1364873425'}}
